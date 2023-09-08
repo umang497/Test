@@ -1,0 +1,7 @@
+-r requirements.txt
+
+## Dev tools
+pip==21.1
+pip-tools==6.0.0
+ipython==7.31.1
+ipdb==0.13.6
